@@ -39,7 +39,7 @@ CREATE TABLE `member` (
 
 LOCK TABLES `member` WRITE;
 /*!40000 ALTER TABLE `member` DISABLE KEYS */;
-INSERT INTO `member` VALUES (1,'Kine','9876543210','Auckland'),(2,'Gimy','7737837823','Yele'),(3,'yueu','7362388272','Traun'),(4,'Raj','5627362736','Wellington');
+INSERT INTO `member` VALUES (1,'Kine','9876543210','Auckland'),(2,'Gimy','7737837823','Yele'),(3,'yueu','7362388272','Traun'),(4,'Raj','5627362736','Wellington'),(5,'Lily','8372837382','Wellington'),(6,'huna','7367437383','Aucklan'),(7,'Tony','2383738383','Poland'),(8,'Pony','7373728278','AuckLand'),(9,'Sara','8349339893','Wellington'),(10,'Susan','9238892389','Wellington'),(11,'timy','8293832992','Auckland'),(12,'unity','9238394839','Traun'),(13,'Jenny','8349489389','Auckland'),(14,'Kine','8738462848','Wellington'),(15,'Pinef','8374836238','Auckland'),(16,'Nano','7382829473','Wellington'),(17,'Milag','2839892399','Wellington'),(18,'Polt','8374873888','Poland'),(19,'Ranjan','8374837848','Poland'),(20,'Giran','8482643838','Traun');
 /*!40000 ALTER TABLE `member` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -52,4 +52,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2020-06-21 12:08:46
+-- Dump completed on 2020-06-21 15:18:25

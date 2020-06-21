@@ -39,7 +39,7 @@ CREATE TABLE `inventory` (
 
 LOCK TABLES `inventory` WRITE;
 /*!40000 ALTER TABLE `inventory` DISABLE KEYS */;
-INSERT INTO `inventory` VALUES (1,1,1,1),(2,2,2,2),(3,1,1,3),(4,3,3,1);
+INSERT INTO `inventory` VALUES (2,2,2,2),(3,1,1,3),(4,3,3,1),(5,5,5,5),(6,3,3,2),(7,2,5,6),(8,5,2,7),(9,17,7,15),(10,6,5,10),(11,12,7,8),(12,8,5,1),(13,7,8,9),(14,8,8,8),(15,9,7,2),(16,6,7,8),(17,5,6,10),(18,12,7,6),(19,7,4,2),(20,1,2,1);
 /*!40000 ALTER TABLE `inventory` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -52,4 +52,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2020-06-21 12:08:46
+-- Dump completed on 2020-06-21 15:18:26
